@@ -28,7 +28,7 @@ There's a bit of starter code, so you can jump right into it.
 
 ## Submission
 
-Upon completion, run the following commands
+Upon completion, run the following commands:
 ```
 $ git add .
 $ git commit -m "done"
